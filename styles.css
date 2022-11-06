@@ -28,7 +28,7 @@ nav .logo {
 }
 
 nav .logo i {
-  color: #6e0aef;
+  color: #f00a0a;
   padding-left: 0.75rem;
 }
 nav .bars-menu {
@@ -49,17 +49,17 @@ nav .nav-items .nav-item {
 
 nav .nav-link {
   text-decoration: none;
-  color: #4e547e;
+  color: #7d4d4d;
   font-size: 1.4rem;
 }
 
 nav .nav-link:hover {
-  color: #6e0aef;
+  color: #ff0000;
 }
 
 /* Heor styling */
 .hero {
-  background-color: #f8f7fc;
+  background-color: #000000;
 }
 
 .hero-section {
@@ -78,7 +78,7 @@ nav .nav-link:hover {
 }
 
 .hero-section .content h4 {
-  color: #6e0aef;
+  color: #ff0000;
   font-size: 1.6rem;
   margin-bottom: 1rem;
 }
@@ -89,12 +89,12 @@ nav .nav-link:hover {
 }
 
 .hero-section .content p {
-  color: rgb(29, 29, 29);
+  color: rgb(255, 255, 255);
   font-size: 1.4rem;
 }
 
 .hero-section .content p span.purple {
-  color: #6e0aef;
+  color: #ff0000;
 }
 
 .hero-section form {
@@ -107,24 +107,24 @@ nav .nav-link:hover {
   outline: none;
   border: none;
   padding: 0.75rem 1.5rem;
-  background-color: #6e0aef;
+  background-color: #ff0000;
 }
 
 .btn:hover {
-  background-color: #7d22f3;
+  background-color: #ff0000;
   cursor: pointer;
 }
 
 .btn a {
   text-decoration: none;
-  color: #ffffff;
+  color: #000000;
   font-size: 1.4rem;
 }
 
 /* Features section */
 section.features {
   padding: 2rem 0;
-  background-color: #f8f7fc;
+  background-color: #000000;
 }
 
 section.features .features-section {
@@ -137,7 +137,7 @@ section.features .features-section {
 }
 
 .features-section h4 {
-  color: #6e0aef;
+  color: #ff0000;
   font-size: 1.6rem;
   margin-bottom: 2rem;
 }
@@ -151,7 +151,7 @@ section.features .features-section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #000000;
   padding: 2rem;
   max-width: 17rem;
   border-radius: 1rem;
@@ -159,12 +159,12 @@ section.features .features-section {
 }
 
 .features-section .qualities .quality:hover {
-  border: 2px solid #6e0aef;
+  border: 2px solid #ff0000;
 }
 
 .qualities .quality i {
   font-size: 2rem;
-  color: #6e0aef;
+  color: #ff0000;
   margin-bottom: 1rem;
 }
 
@@ -176,7 +176,7 @@ section.features .features-section {
 .qualities .quality p {
   font-size: 1.2rem;
   text-align: center;
-  color: #4e547e;
+  color: #7d4d4d;
 }
 
 /*  Phones section */
@@ -193,7 +193,7 @@ section.features .features-section {
 }
 
 .phones-section h4 {
-  color: #6e0aef;
+  color: #ff0000;
   font-size: 1.6rem;
   margin-bottom: 2rem;
 }
@@ -232,7 +232,7 @@ section.features .features-section {
 
 /* Footer */
 footer {
-  background-color: #f8f7fc;
+  background-color: #000000;
   height: 15vh;
   margin-top: 5rem;
   padding: 2rem 0;
@@ -261,7 +261,7 @@ footer {
 }
 
 .footer-section .socials i:hover {
-  color: #6e0aef;
+  color: #ff0000;
   cursor: pointer;
 }
 
@@ -340,16 +340,16 @@ footer {
     display: none;
     flex-direction: column;
     width: 100%;
-    background-color: #7d22f3;
+    background-color: #ff0000;
     padding: 2rem 0;
   }
   nav .nav-items .nav-item {
     margin: 1rem 0;
   }
   nav .nav-items .nav-item a {
-    color: white;
+    color: black;
   }
   nav .nav-items.active {
     display: flex;
   }
-}
+  }
